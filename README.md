@@ -1,5 +1,5 @@
 # Poker-Games
-龙虎德州源码，区块链德州，支持Hash的德州，德州区块链TG上的德州游戏源码，H5德州源码，德州游戏源码，支持Telegram的德州，可以在TG上押注的德州游戏，随时押注时时开奖，线上成熟产品的源码。TG：@xuzongbin001
+龙虎德州源码，区块链德州，支持Hash的德州，德州区块链TG上的德州游戏源码，H5德州源码，德州游戏源码，TG群里玩的德州游戏，押注德州，下注德州，支持Telegram的德州，可以在TG上押注的德州游戏，随时押注时时开奖，线上成熟产品的源码。TG：@xuzongbin001
 
 
 <img width="1246" height="595" alt="houtai1" src="https://github.com/user-attachments/assets/a7a9caee-00d1-4c16-9f49-6228f795cd2c" />
